@@ -73,7 +73,7 @@ Passos:
 1. Clonar o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/taskmanager-api.git
+git clone https://github.com/flavioricsil/TaskManager.git
 cd taskmanager-api
 ```
 
