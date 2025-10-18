@@ -74,7 +74,7 @@ Passos:
 
 ```bash
 git clone https://github.com/flavioricsil/TaskManager.git
-cd taskmanager-api
+cd TaskManager
 ```
 
 2. Executar com Docker Compose:
